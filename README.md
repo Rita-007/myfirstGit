@@ -15,4 +15,4 @@ Next, we would like to have *italics* next if you want something in **bold**， 
 - beef
 - cheese
 
-To make a link you need [ ] and ( ) for example [google] (http://goggle.ie)
+To make a link you need [ ] and ( ) for example [google](http://goggle.ie)

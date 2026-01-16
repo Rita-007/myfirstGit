@@ -16,3 +16,4 @@ Next, we would like to have *italics* next if you want something in **bold**， 
 - cheese
 
 To make a link you need [ ] and ( ) for example [google](http://goggle.ie)
+![google](https://upload.wikimedia.org/wikipedia/en/7/73/Trollface.png)
